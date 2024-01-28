@@ -1,0 +1,17 @@
+///////////////////// 100x100 matrix ///////////////////////////
+Número de Elementos por Processos 1x A média dos valores das 10 primeiras linhas é: 0.08031773567199707
+Número de Elementos por Processos 5x A média dos valores das 10 primeiras linhas é: 0.018938636779785155
+Número de Elementos por Processos 10x A média dos valores das 10 primeiras linhas é: 0.012670230865478516
+Número de Elementos por Processos 50x A média dos valores das 10 primeiras linhas é: 0.004335927963256836
+Número de Elementos por Processos 100x A média dos valores das 10 primeiras linhas é: 0.003321409225463867
+Número de Elementos por Processos 1000x A média dos valores das 10 primeiras linhas é: 0.0050673246383666996
+///////////////////// 200x200 matrix ///////////////////////////
+Número de Elementos por Processos 50x A média dos valores das 10 primeiras linhas é: 0.007184767723083496
+Número de Elementos por Processos 100x A média dos valores das 10 primeiras linhas é: 0.006759071350097656
+Número de Elementos por Processos 200x A média dos valores das 10 primeiras linhas é: 0.008641695976257325
+Número de Elementos por Processos 1000x A média dos valores das 10 primeiras linhas é: 0.009172344207763672
+///////////////////// 300x300 matrix ///////////////////////////
+Número de Elementos por Processos 50x A média dos valores das 10 primeiras linhas é: 0.011986875534057617
+Número de Elementos por Processos 100x A média dos valores das 10 primeiras linhas é: 0.012353825569152831
+Número de Elementos por Processos 300x A média dos valores das 10 primeiras linhas é: 0.022978949546813964
+Número de Elementos por Processos 1000x A média dos valores das 10 primeiras linhas é: 0.023088979721069335
